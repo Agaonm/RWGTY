@@ -8,9 +8,9 @@ Currently Uses a Server to run inference on the inputted Sentence and translate 
 Using the Helsinki-NLP Model through EasyNMT. 
 
 ## This is a WIP
--[x] Python Server backend for inference
+- [x] Python Server backend for inference
 
--[x] Chrome extension - Very basic
+- [x] Chrome extension - Very basic
 
--[] Auto Translate Highlighted text
+- [] Auto Translate Highlighted text
 
