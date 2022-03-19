@@ -9,6 +9,8 @@ Using the Helsinki-NLP Model through EasyNMT.
 
 ## This is a WIP
 -[x] Python Server backend for inference
+
 -[x] Chrome extension - Very basic
--[ ] Auto Translate Highlighted text
+
+-[] Auto Translate Highlighted text
 
